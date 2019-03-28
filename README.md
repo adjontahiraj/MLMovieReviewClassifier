@@ -1,5 +1,5 @@
 # MLMovieReviewClassifier
-This is a program that uses different types of Supervised Learning NB classifiers to test the accuracy of the Agent being able to classify movie reviews as positive or negative.
+This is a program that uses different types of Supervised Learning NB classifiers to test the accuracy of the Agent being able to classify movie reviews as positive or negative. The report for this program is included in the repo as a pdf.
 
 This file can be run by doing python3 NaiveBayesClassifer.py training_pos.txt training_neg.txt test_pos_private.txt test_neg_private.txt
 
